@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names_list">
+        <item>Saif</item>
+        <item>Ali</item>
+        <item>Ahmed</item>
+        <item>Umer</item>
+        <item>Khizer</item>
+        <item>Rose</item>
+        <item>David</item>
+        <item>John</item>
+        <item>James</item>
+        <item>Poo</item>
+        <item>Gerry</item>
+        <item>Robert</item>
+        <item>Huzaifa</item>
+    </string-array>
+</resources>
